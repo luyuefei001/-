@@ -1,0 +1,95 @@
+/* pages/shop/shop.wxss */
+/*该页面暂未数据交互只是样式*/
+.top_css {
+  display: flex;
+  flex-direction: column;
+  height: 800rpx;
+  /* background: red; */
+}
+.top_up {
+  height: 300rpx;
+}
+.top_bottom {
+  display: flex;
+  flex-direction: row;
+  height: 500rpx;
+}
+.top_left {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.top_left image{
+  margin-left: 50rpx;
+  margin-top: 30rpx;
+  width: 300rpx;
+  height: 300rpx;
+}
+.top_left text{
+  margin-top: 20rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+.top_right {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.top_right image{
+  margin-left: 50rpx;
+  margin-top: 30rpx;
+  width: 300rpx;
+  height: 300rpx;
+}
+.top_right text{
+  margin-top: 20rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+/*下部分*/
+.bottom_css {
+  display: flex;
+  flex-direction: column;
+  height: 800rpx;
+  /* background: red; */
+}
+.bottom_up {
+  height: 300rpx;
+}
+.bottom_bottom {
+  display: flex;
+  flex-direction: row;
+  height: 500rpx;
+}
+.bottom_left {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.bottom_left image{
+  margin-left: 50rpx;
+  margin-top: 30rpx;
+  width: 300rpx;
+  height: 300rpx;
+}
+.bottom_left text{
+  margin-top: 20rpx;
+  text-align: center;
+  font-size: 30rpx;
+}
+.bottom_right {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
+.bottom_right image{
+  margin-left: 50rpx;
+  margin-top: 30rpx;
+  width: 300rpx;
+  height: 300rpx;
+}
+.bottom_right text{
+  margin-top: 20rpx;
+  text-align: center;
+  font-size: 30rpx;
+}

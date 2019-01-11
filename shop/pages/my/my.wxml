@@ -1,0 +1,13 @@
+<!--pages/my/my.wxml-->
+<view class='top_css'>
+    <view class='userinfo' >
+        <image src='http://cdn.jisuapp.cn/static/webapp/images/default_photo.png' style='width:120rpx;height:120rpx;margin-left:25%;margin-top:10%;'></image>
+        <text style='font-size:30rpx;'>请先登录</text>
+    </view>
+</view>
+<view class='nav_model'>
+    <view class='nav_image'>
+        <image src='/image/我 的.png' style='width:50rpx;height:50rpx;'></image>
+    </view>
+    <view class='nav_text'>待付款</view>
+</view>

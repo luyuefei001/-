@@ -1,0 +1,36 @@
+<!--pages/shop/shop.wxml-->
+<view class='top_css'>
+    <view class='top_up'>
+        <image src='http://img.weiye.me/zcimgdir/album/file_595319644ec66.png' style='width:100%;height:300rpx;' mode="aspectFill"></image>
+    </view>
+    <view class='top_bottom'>
+        <view class='top_left'>
+            <image src='http://img.weiye.me/zcimgdir/album/file_597057590dad0.png'></image>
+            <text>三星s7edge+</text>
+            <text>￥4000.00</text>
+        </view>
+        <view class='top_right'>
+            <image src='http://img.weiye.me/zcimgdir/album/file_598b06ea3bfaa.png'></image>
+            <text>华为MTAE9</text>
+            <text>￥3009.00</text>
+        </view>
+    </view>
+</view>
+
+<view class='bottom_css'>
+    <view class='bottom_up'>
+        <image src='http://img.weiye.me/zcimgdir/album/file_59531a36b86e4.png' style='width:100%;height:300rpx;'></image>
+    </view>
+    <view class='bottom_bottom'>
+        <view class='bottom_left'>
+            <image src='http://img.weiye.me/zcimgdir/album/file_597057590dad0.png'></image>
+            <text>三星s7edge+</text>
+            <text>￥4000.00</text>
+        </view>
+        <view class='bottom_right'>
+            <image src='http://img.weiye.me/zcimgdir/album/file_598b06ea3bfaa.png'></image>
+            <text>华为MTAE9</text>
+            <text>￥3009.00</text>
+        </view>
+    </view>
+</view>

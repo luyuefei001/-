@@ -1,0 +1,25 @@
+<!--pages/activity/activity.wxml-->
+<view class='css'>
+<view class='activity_css'>
+    <view class='model_css'>
+        <view class='text'>
+            <text>进口手机壳,原厂批发低价抢购</text>
+            <text>2017-02-21</text>
+        </view>
+        <view class='image'>
+            <image src='http://img.weiye.me/zcimgdir/album/file_5953512c6de37.png' mode="widthFix" style='width:90%;margin-left:5%;'></image>
+        </view>
+    </view>
+</view>
+<view class='activity_css'>
+    <view class='model_css'>
+        <view class='text'>
+            <text>进口手机壳,原厂批发低价抢购</text>
+            <text>2017-02-21</text>
+        </view>
+        <view class='image'>
+            <image src='http://img.weiye.me/zcimgdir/album/file_5953512c6de37.png' mode="widthFix" style='width:90%;margin-left:5%;'></image>
+        </view>
+    </view>
+</view>
+</view>

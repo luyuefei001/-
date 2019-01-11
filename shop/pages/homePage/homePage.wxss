@@ -1,0 +1,137 @@
+/* pages/homePage/homePage.wxss */
+swiper {
+  height: 350rpx;
+  /* background: red; */
+}
+swiper image{
+  width: 100%;
+}
+.nav {
+  display: flex;
+  flex-direction: row;
+  height: 150rpx;
+  background-color: rgb(255, 255, 255); 
+  color: rgb(51, 51, 51); 
+  font-size: 12px; 
+  margin-top: 0px; 
+  opacity: 1; 
+  text-align: center; 
+}
+.nav_img {
+  display: flex;
+  flex-direction: column;
+  padding-left: 10%; 
+  padding-top: 3%;
+}
+.nav_app {
+  height: 500rpx;
+  background: rgb(243, 243, 243);
+  display: flex;
+  flex-direction: column;
+}
+.nav_app_top {
+  height: 100rpx;
+  /* background: red; */
+  line-height: 100rpx;
+}
+.nav_app_top text{
+  line-height: 100rpx;
+  margin-left: 30rpx;
+}
+.nav_app_model {
+  height: 300rpx;
+  display: flex;
+  flex-direction: row;
+  /* background: red; */
+}
+.nav_app_model text{
+  display: block;
+  height: 40%;
+  font-size: 30rpx;
+  color: white;
+  text-align: center;
+  padding-top: 30%; 
+} 
+.nav_app_model_left {
+  height: 300rpx;
+  width: 33%;
+  background: rgb(223, 247, 252);
+
+} 
+.left_module {
+  height: 80%;
+  width: 80%;
+  margin:10% 10% 10% 10%;
+  background: rgb(168, 234, 247);
+} 
+
+.nav_app_model_model {
+  height: 300rpx;
+  width: 33%;
+  background: rgb(250, 228, 242);
+}
+.model_module {
+  height: 80%;
+  width: 80%;
+  margin:10% 10% 10% 10%;
+  background: rgb(248, 178, 222);
+}
+.nav_app_model_right {
+  height: 300rpx;
+  width: 33%;
+  margin-left: 1%;
+  background: rgb(250, 242, 225);
+}
+.right_module {
+  height: 80%;
+  width: 80%;
+  margin:10% 10% 10% 10%;
+  background: rgb(252, 232, 189);
+}
+.nav_app_bottom {
+  height: 100rpx;
+  /* background: red; */
+  line-height: 100rpx;
+}
+.nav_app_bottom text{
+  line-height: 100rpx;
+  margin-left: 30rpx;
+}
+.hot_phone {
+  height: 30%;
+  display: flex;
+  flex-direction: row;
+  /* background: red; */
+}
+.hot_phone_img {
+  width: 30%;
+  height:100%;
+  /* background: blue; */
+}
+.hot_phone_img image{
+  margin-top: 10rpx;
+  margin-left: 15rpx;
+}
+.hot_phone_content {
+  display: flex;
+  flex-direction: column;
+  /* background: yellow; */
+}
+.content_one {
+  margin-top: 5%;
+}
+.content_one text{
+  font-size: 30rpx;
+}
+.content_two {
+  margin-top: 50%;
+}
+.content_two text{
+  font-size: 30rpx;
+}
+.add_shop_car {
+  width: 80rpx;
+  height: 45rpx;
+  margin-left: 30%;
+  margin-top: 20%;
+}

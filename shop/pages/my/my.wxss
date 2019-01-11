@@ -1,0 +1,32 @@
+/* pages/my/my.wxss */
+.top_css {
+    height: 250rpx;
+    /* background: red; */
+    background-image: url("http://test.zhichiwangluo.com/zhichi_frontend/static/webapp/images/top_bg.png");
+}
+.userinfo {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+    /* background: yellow; */
+    text-align: center;
+    margin-left: 35%;
+}
+.nav_model {
+  display: flex;
+  flex-direction: row;
+  height: 150rpx;
+  border-bottom: 1px solid rgb(201, 200, 200);
+  /* background: rgb(201, 200, 200); */
+}
+.nav_image {
+  height: 80rpx;
+  margin-top: 6%;
+  margin-left: 5%;
+}
+.nav_text {
+  margin-left: 2%;
+  line-height: 150rpx;
+  font-size: 30rpx;
+}
